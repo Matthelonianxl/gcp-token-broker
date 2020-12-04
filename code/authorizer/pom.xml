@@ -37,7 +37,7 @@
         <dependency>
             <groupId>com.google.http-client</groupId>
             <artifactId>google-http-client</artifactId>
-            <version>1.31.0</version>
+            <version>1.37.0</version>
         </dependency>
         <dependency>
             <groupId>com.google.api-client</groupId>
@@ -57,12 +57,12 @@
         <dependency>
             <groupId>com.google.http-client</groupId>
             <artifactId>google-http-client-apache-v2</artifactId>
-            <version>1.31.0</version>
+            <version>1.37.0</version>
         </dependency>
         <dependency>
             <groupId>org.apache.httpcomponents</groupId>
             <artifactId>httpclient</artifactId>
-            <version>4.5.9</version>
+            <version>4.5.13</version>
         </dependency>
         <dependency>
             <groupId>org.eclipse.jetty</groupId>

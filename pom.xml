@@ -90,7 +90,7 @@ limitations under the License.
         <javax.annotation-api.version>1.3.2</javax.annotation-api.version>
         <google-cloud-datastore.version>1.101.0</google-cloud-datastore.version>
         <google-cloud-kms.version>1.35.0</google-cloud-kms.version>
-        <google-api-services-iam.version>v1-rev20191108-1.30.3</google-api-services-iam.version>
+        <google-api-services-iam.version>v1-rev20210519-1.32.1</google-api-services-iam.version>
         <ch.qos.logback.version>1.2.3</ch.qos.logback.version>
         <ch.qos.logback.contrib.version>0.1.5</ch.qos.logback.contrib.version>
         <jackson-databind.version>2.10.1</jackson-databind.version>

@@ -37,7 +37,7 @@ limitations under the License.
       <dependency>
           <groupId>io.grpc</groupId>
           <artifactId>grpc-protobuf</artifactId>
-          <version>${io.grpc.version}</version>
+          <version>1.41.2</version>
       </dependency>
       <dependency>
         <groupId>com.google.auth</groupId>

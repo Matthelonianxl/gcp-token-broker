@@ -39,7 +39,7 @@ limitations under the License.
         </activation>
         <properties>
           <hadoop.identifier>hadoop2</hadoop.identifier>
-          <hadoop.version>2.9.2</hadoop.version>
+          <hadoop.version>3.4.0</hadoop.version>
           <gcs.connector.version>hadoop2-2.0.0-RC2</gcs.connector.version>
         </properties>
       </profile>
@@ -47,7 +47,7 @@ limitations under the License.
         <id>hadoop3</id>
         <properties>
           <hadoop.identifier>hadoop3</hadoop.identifier>
-          <hadoop.version>3.1.1</hadoop.version>
+          <hadoop.version>3.4.0</hadoop.version>
           <gcs.connector.version>hadoop3-2.0.0-RC2</gcs.connector.version>
         </properties>
       </profile>

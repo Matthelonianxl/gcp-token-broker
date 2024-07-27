@@ -93,7 +93,7 @@ limitations under the License.
         <google-api-services-iam.version>v1-rev20191108-1.30.3</google-api-services-iam.version>
         <ch.qos.logback.version>1.2.3</ch.qos.logback.version>
         <ch.qos.logback.contrib.version>0.1.5</ch.qos.logback.contrib.version>
-        <jackson-databind.version>2.10.1</jackson-databind.version>
+        <jackson-databind.version>2.15.0</jackson-databind.version>
         <net.jodah.expiringmap.version>0.5.9</net.jodah.expiringmap.version>
         <maven.assembly.plugin.version>3.1.1</maven.assembly.plugin.version>
         <maven.os.plugin.version>1.6.1</maven.os.plugin.version>
